@@ -11,9 +11,13 @@ Course 3: Unsupervised Learning and Reinforcement Learning
 Repository Structure
 This repository is organized into separate folders, each corresponding to a course in the specialization. Inside each course folder, you will find the graded practical tasks that I completed along with any necessary resources or datasets.
 
+apache
 ├── Course 1 - Supervised Machine Learning: Regression and Classification
+
 │   ├── Task 1 - Linear Regression
+
 │   ├── Task 2 - Logistic Regression
+
 ├── Course 2 - Advanced Algorithms
 │   ├── Task 1 - Decision Trees
 │   ├── Task 2 - Support Vector Machines
