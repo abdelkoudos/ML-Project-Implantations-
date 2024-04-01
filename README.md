@@ -4,27 +4,22 @@ This repository serves as proof of my work on the Machine Learning Specializatio
 Specialization Overview
 The Machine Learning Specialization covers various aspects of machine learning, including supervised learning, unsupervised learning, and practical applications. The specialization consists of the following courses:
 
-Course 1: Introduction to Machine Learning
+Course 1: Supervised Machine Learning: Regression and Classification
 Course 2: Supervised Learning Techniques
-Course 3: Unsupervised Learning and Dimensionality Reduction
+Course 3: Unsupervised Learning and Reinforcement Learning
+
 Repository Structure
 This repository is organized into separate folders, each corresponding to a course in the specialization. Inside each course folder, you will find the graded practical tasks that I completed along with any necessary resources or datasets.
 
-├── Course 1 - Introduction to Machine Learning
+├── Course 1 - Supervised Machine Learning: Regression and Classification
 │   ├── Task 1 - Linear Regression
 │   ├── Task 2 - Logistic Regression
-│   ├── ...
-│   └── Task N - ...
-├── Course 2 - Supervised Learning Techniques
+├── Course 2 - Advanced Algorithms
 │   ├── Task 1 - Decision Trees
 │   ├── Task 2 - Support Vector Machines
-│   ├── ...
-│   └── Task N - ...
-├── Course 3 - Unsupervised Learning and Dimensionality Reduction
+├── Course 3 - Unsupervised Learning and Reinforcement Learning
 │   ├── Task 1 - K-means Clustering
 │   ├── Task 2 - Principal Component Analysis
-│   ├── ...
-│   └── Task N - ...
 ├── Certificates
 │   ├── Course 1 Certificate.pdf
 │   ├── Course 2 Certificate.pdf
@@ -40,6 +35,7 @@ I have earned certificates for completing each course in the Machine Learning Sp
 Course 1 Certificate
 Course 2 Certificate
 Course 3 Certificate
+
 Accessing the Repository
 To access the repository and review my work, please visit the following link:
 
