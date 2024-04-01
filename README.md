@@ -1,8 +1,8 @@
--Deep learning.ai  
+-Deep learning.ai
 -Machine Learning Specialization 
--Instructor: Andrew NJ 
--University: Stanford
--Platform: Coursera
+-Instructor: Andrew NJ  
+-University: Stanford 
+-Platform: Coursera 
 
 The specialization consists of 3 courses and this repository contains my implementation for all the tasks and projects I did throughout the specialization.
 
