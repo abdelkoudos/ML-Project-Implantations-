@@ -10,8 +10,6 @@ Course 3: Unsupervised Learning and Dimensionality Reduction
 Repository Structure
 This repository is organized into separate folders, each corresponding to a course in the specialization. Inside each course folder, you will find the graded practical tasks that I completed along with any necessary resources or datasets.
 
-apache
-Copy
 ├── Course 1 - Introduction to Machine Learning
 │   ├── Task 1 - Linear Regression
 │   ├── Task 2 - Logistic Regression
@@ -32,6 +30,7 @@ Copy
 │   ├── Course 2 Certificate.pdf
 │   └── Course 3 Certificate.pdf
 └── README.md
+
 Practical Task Completion
 I have completed the practical tasks for each course in the specialization. The task folders contain my implementations, which were graded based on correctness, efficiency, and code quality.
 
