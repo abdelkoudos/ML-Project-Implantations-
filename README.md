@@ -1,4 +1,4 @@
-- Deep learning.ai 
+. Deep learning.ai 
 - Machine Learning Specialization 
 - Instructor: Andrew NJ 
 - University: Stanford 
