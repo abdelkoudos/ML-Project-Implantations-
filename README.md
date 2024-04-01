@@ -1,11 +1,12 @@
-deep learning.ai  Machine Learning Specialization 
+deep learning.ai  
+Machine Learning Specialization 
 Instructor: Andrew NJ 
 University: Stanford
 platform: Coursera
 
 The specialization consists of 3 courses and this repository contains my implementation for all the tasks and projects I did throughout the specialization.
 
-course 1: (Supervised Machine Learning: Regression and Classification)
+- Course 1: (Supervised Machine Learning: Regression and Classification)
 
 - Project 1: Profit Analysis and City Selection for Restaurant Expansion (C1-W2 Single-Var Lin-Reg-Practice): 
   Linear regression with 1 variable.
