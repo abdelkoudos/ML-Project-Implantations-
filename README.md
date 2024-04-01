@@ -1,6 +1,6 @@
--Deep learning.ai
+-Deep learning.ai 
 -Machine Learning Specialization 
--Instructor: Andrew NJ  
+-Instructor: Andrew NJ 
 -University: Stanford 
 -Platform: Coursera 
 
